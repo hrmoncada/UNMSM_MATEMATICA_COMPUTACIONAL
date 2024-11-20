@@ -1,0 +1,12 @@
+Github : UNMSM_MATEMATICA_COMPUTACIONAL/2.HWs/HW5/HW5.txt 
+
+Resuelva los siguentes ejercicios (Encuentre la transformada de Fourier 1D), Fecha de entrega Martes 26 Nov
+
+1.(tarea02.pdf) Tarea 2: Transformada de Fourier 
+Funciones : 1, 2, 3
+
+2. Capítulo 2 - Series y transformadas de Fourier
+2.6. Ejercicios propuestos :   7, 8, 9, 10, 11
+2.7. Ejercicios complementarios :  1, 3
+
+
