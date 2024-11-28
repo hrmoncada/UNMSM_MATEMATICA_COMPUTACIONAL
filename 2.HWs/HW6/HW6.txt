@@ -1,0 +1,19 @@
+Github : UNMSM_MATEMATICA_COMPUTACIONAL/2.HWs/HW6/HW6.txt 
+
+LENGUAJES GRAMÁTICAS Y AUTÓMATAS, Juan Manuel Cueva Lovelle
+CAPÍTULO 17: EJERCICIOS PROPUESTOS, pag 93
+Resolver todos los ejercicios propuestos 
+
+Teoría de la Computación, Jorge Eduardo Carrión Viramontes
+Resolver TODOS los ejercicios propuestos es las siguientes secciones
+1. Preguntas, pag 19
+2. Ejercicios Capítulo 1, pag 19, 20
+
+Capítulo 4 - Transformada de Fourier 1D
+Resolver los siguintes ejercicios
+4.6.Ejercicios : 1, 2, 3, 4
+
+PRÁCTICAS DE ANÁLISIS DE FOURIER, José M. Mazón
+Resolver TODOS los ejercicios propuestos
+Práctica 3 - La transformada de Fourier, pag 11
+3.1, 3.2, .... 3.7, 3.8, ..., 3.10, 3.11
